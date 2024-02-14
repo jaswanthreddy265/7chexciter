@@ -1,2 +1,2 @@
-Start_Frequency(MHz),Stop_Frequency(MHz),Noise_Bandwidth(Hz),Dwell_Time(s)
+Start_Frequency(MHz),Stop_Frequency(MHz),Noise_Bandwidth,Dwell_Time(s)
 935,960,200 KHz,5000
