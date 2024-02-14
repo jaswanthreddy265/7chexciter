@@ -1,0 +1,3 @@
+Start_Frequency,Stop_Frequency,Noise_Bandwidth,Dwell_Time
+935,960,200,5000
+2535,2555,200,5000
